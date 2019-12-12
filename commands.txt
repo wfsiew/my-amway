@@ -1,1 +1,1 @@
-ng build --prod --base-href https://wfsiew.github.io/my-todo-ng/ --output-path docs
+ng build --prod --base-href https://wfsiew.github.io/my-amway/ --output-path docs
